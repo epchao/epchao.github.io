@@ -1,0 +1,28 @@
+baseURL = 'https://epchao.github.io/'
+title = 'eugene-chao'
+theme = 'hugo-theme-console'
+languageCode = 'en-us'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast"
+
+  github = "https://github.com/epchao"
+  linkedin = "https://www.linkedin.com/in/epchao"
+  email = "epchao@berkeley.edu"
+
+  [[params.navlinks]]
+  name = "home/"
+  url = "/"
+
+  [[params.navlinks]]
+  name = "projects/"
+  url = "projects/"

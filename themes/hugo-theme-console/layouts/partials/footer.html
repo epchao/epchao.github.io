@@ -1,0 +1,12 @@
+<div class="footer">
+    <br/>
+    {{ with .Site.Params.github }}
+    <a href="{{ . }}" style="margin-right: 2rem;">github</a>
+    {{ end }}
+    {{ with .Site.Params.linkedin }}
+    <a href="{{ . }}" style="margin-right: 2rem;">linkedin</a>
+    {{ end }}
+    {{ with .Site.Params.email }}
+    <a href="mailto:{{ . }}">email</a>
+    {{ end }}
+</div>

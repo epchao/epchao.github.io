@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<h1>about</h1>
+<p>
+    hallo! i'm currently a 4th year studying computer science @ <b><a href="https://eecs.berkeley.edu/">uc berkeley</a></b> and a part-time software engineer at <b><a href="https://www.amd.com/">amd</a></b>.
+    <br/><br/>
+    previously, i've interned at <b><a href="https://wearos.google.com/">google wear</a></b> and <b><a href="https://cloud.google.com/security/products/recaptcha">recaptcha</a></b>.
+    <br/><br/>
+    i love building, learning, and teaching. please email me at <b><a href="mailto:epchao@berkeley.edu">epchao@berkeley.edu</a></b> if you'd like to chat.
+</p>
+
+<h1>latest projects</h1>
+
+<div class="projects-list">
+{{ with .Site.GetPage "/projects" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="project">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
