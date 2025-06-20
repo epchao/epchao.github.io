@@ -2,22 +2,26 @@
 
 <h1>about</h1>
 <p>
-    hallo! i'm currently a 4th year studying computer science @ <b><a href="https://eecs.berkeley.edu/">uc
-            berkeley</a></b> and a part-time software engineer at <b><a href="https://www.amd.com/">amd</a></b>.
+    hello! i'm eugene and i am a recent computer science grad @ <b><a href="https://eecs.berkeley.edu/">uc
+            berkeley</a></b> and an incoming swe on <b><a target="_blank" href="https://ads.google.com/home/">google
+            ads</a></b>.
     <br /><br />
-    previously, i've interned at <b><a href="https://wearos.google.com/">google wear</a></b> and <b><a
-            href="https://cloud.google.com/security/products/recaptcha">recaptcha</a></b>. here's my <b><a
-            href="/eugene-chao-resume.pdf" target="_blank">resume</a></b>.
+    previously, i've interned at <b><a target="_blank" href="https://wearos.google.com/">google wear</a></b>, <b><a
+            target="_blank" href="https://cloud.google.com/security/products/recaptcha">recaptcha</a></b>, and had a
+    part-time swe role at
+    <b><a target="_blank" href="https://www.amd.com/">amd</a></b>. here's my <b><a target="_blank"
+            href="/eugene-chao-resume.pdf">resume</a></b>.
     <br /><br />
-    i love learning, building, and teaching. stay tuned for my latest projects and please reach out if you'd like to chat. :)
+    i love learning, building, and teaching. stay tuned for my latest projects and please reach out if you'd like to
+    chat. :)
 </p>
 
-<h1>latest projects</h1>
+<h1>my blog</h1>
 
-<div class="projects-list">
-    {{ with .Site.GetPage "/projects" }}
+<div class="blog-list">
+    {{ with .Site.GetPage "/blog" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-    <div class="project">
+    <div class="blog">
         <p>
         <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
         <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
