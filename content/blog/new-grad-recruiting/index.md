@@ -342,11 +342,70 @@ keep it plain text and naturally integrate key tools from the job posting.
 
 ### network
 
-- cold outreach templates (linkedin/email)
-- how to ask for referrals without being annoying
-- building genuine connections at events or online
-- why to follow up after interviews or coffee chats
-- examples of successful outreach → referral → interview
+networking is about building professional relationships, not just collecting
+referrals. focus on curiosity and value rather than asking for favors
+immediately.
+
+#### outreach templates
+
+keep cold messages under three sentences to maximize response rates.
+
+1. state who you are
+2. explain your connection
+3. ask a meaningful question that genuinely shows interest in their work or
+   career path.
+
+> _“hi [name], i’m a cs student at [school] interested in your work with [team].
+> i saw your project on [topic] and would love to hear a bit about your
+> experience. do you have ten minutes for a quick chat next week?”_
+
+#### asking for referrals
+
+never ask for a referral in your first message. build rapport first by asking
+about their projects and career path.
+
+if you connect well, ask for advice on how to stand out in the application
+process. this approach often naturally leads to them offering a referral.
+
+#### building connections
+
+focus on curiosity instead of job hunting. ask about hobbies, discuss work-life
+balance, and talk about career goals.
+
+most importantly, be present. don’t treat a coffee chat like a 30-minute
+checklist. just be human and let the conversation flow naturally. show
+excitement and use active listening, like repeating key phrases they use, to
+show you are engaged. building a multi-dimensional relationship is far more
+effective than just asking about work.
+
+#### following up
+
+always send a follow-up note within 24 hours of a call. thank them for their
+time, mention a specific detail from your conversation to show you were
+listening, and keep them updated on your career progress over time.
+
+#### outreach to interview flow
+
+1. send a short, tailored linkedin message to an engineer or alumnus.
+2. have a brief chat focused on their work, hobbies, and career path.
+3. send a thank-you note within 24 hours referencing a specific topic you
+   discussed.
+4. follow up occasionally to share updates on your projects or recruiting
+   progress.
+5. receive a referral, leading to a recruiter reaching out for an interview.
+
+#### why network
+
+companies are made of people. while teams want capable performers, there are
+thousands of qualified applicants in the market. making the effort to connect is
+what puts you first in line.
+
+- a referral acts as a baseline of trust. it proves someone is willing to vouch
+  for your personality and work ethic.
+- many roles are filled internally or via referrals before they are ever
+  publicly posted.
+- talking to insiders reveals team bottlenecks, company priorities, and exactly
+  what interviewers are looking for.
 
 ---
 
