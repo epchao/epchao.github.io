@@ -411,11 +411,42 @@ what puts you first in line.
 
 ### just apply
 
-- when to prioritize referrals
-- how to reach out to recruiters, engineers, and alumni
-- how to track applications (spreadsheet, notion, airtable)
-- sourcing jobs via career fairs, linkedin, team pages, discord/slack, and
-  career mailing lists
+you will never feel 100% prepared. the secret to recruiting is doing preparation
+and applications in parallel to maximize your time.
+
+if you wait until you feel ready, you will miss the hiring window entirely.
+
+#### the volume game
+
+recruiting is a funnel. since it is a probability game, your odds of landing an
+offer scale directly with application volume.
+
+applying and leetcoding must happen at the same time.
+
+while you wait for companies to respond, keep studying. when the interview
+invite comes, you will be ready enough.
+
+#### active sourcing channels
+
+don’t wait for jobs to pop up on generic job boards.
+
+use different resources to find roles early:
+
+- join active spaces like the
+  [cs careers discord](https://discord.com/invite/cscareers) to get application
+  links the moment they go live.
+- monitor linkedin and cold reach engineers and recruiters.
+- target company career pages daily.
+- attend university career fairs and engineering conferences to meet recruiters
+  and engineers directly.
+
+#### stay active
+
+while you wait to feel ready, someone else is actively applying, networking, and
+taking those spots.
+
+every day you hesitate is another day someone else moves ahead of you in the
+queue.
 
 ---
 
