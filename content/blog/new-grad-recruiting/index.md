@@ -456,12 +456,31 @@ queue.
 
 ### recruiter screening
 
-- how to prepare for common questions:
-  - "tell me about yourself"
-  - "why our company?"
-  - "what are you looking for?"
-- how to stand out without sounding scripted
-- being honest about timelines, interests, and gaps
+recruiter screens are simple fifteen minute calls. it is mostly a vibe check to
+ensure you are qualified, communicative, and not crazy.
+
+don't spend too much time preparing for these, your focus should remain on
+technical and behavioral rounds.
+
+#### crossing the checklist
+
+recruiters have a specific list of boxes to check, like graduation dates, visa
+requirements, and timeline alignment.
+
+do not go deep into technical details unless they specifically ask. they are not
+engineers, so keep your qualifications high-level and focused on aligning with
+the job description.
+
+#### the why company narrative
+
+do preliminary research on glassdoor/reddit/linkedin/etc. to check the culture
+and ensure it is a good opportunity for you.
+
+when explaining why you want to join, pick out specific phrases from the job
+posting or the company mission page and integrate them into your narrative.
+
+state that you are familiar with their tech stack and mention projects where you
+have used it.
 
 ---
 
